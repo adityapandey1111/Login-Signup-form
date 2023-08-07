@@ -7,7 +7,7 @@ body
     align-items: center;
     min-height: 100vh;
     font-family: "Jost", sans-serif;
-    background: linear-gradient(to bottom, #11bcb6, #0f3876, #0d0d4e);
+/*     background: linear-gradient(to bottom, #11bcb6, #0f3876, #0d0d4e); */
 }
 .main 
 {
